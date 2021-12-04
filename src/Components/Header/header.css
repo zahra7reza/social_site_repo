@@ -1,0 +1,22 @@
+nav {
+  height: 50px;
+  border: 1px solid #dfdfdf;
+}
+
+.div header {
+  width: 85%;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.div.png {
+  height: 35px;
+  width: 35px;
+  padding: 0 23px;
+}
+
+.active {
+  border-bottom: 2px solid purple;
+}
